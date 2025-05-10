@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+google-api-python-client
+python-dotenv
+pyaudio
+
